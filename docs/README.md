@@ -19,7 +19,9 @@ The [mu-2023-xproc GitHub repository](https://github.com/xatapult/mu-2023-xproc)
 
 ## <a name="tutorial-info"></a>About the tutorial
 
-The XProc 3.0 tutorial will be a mix of theory, demos and practice. If time and technical hurdles allow, attendees can do (simple) exercises to get practice and a feel for the language. The annotated presentation(s) will be available.
+The XProc 3.0 tutorial will be a mix of theory, demos and practice. If time and technical hurdles allow, attendees can do (simple) exercises to get practice and a feel for the language. The presentation itself is also available.
+
+This tutorial is a rerun from a tutorial given at [Declarative Amsterdam](https://declarative.amsterdam/) in 2021.
 
 ### <a name="tutorial-preparations"></a>**IMPORTANT:** Preparations for the tutorial
 

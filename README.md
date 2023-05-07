@@ -8,6 +8,8 @@ The [mu-2023-xproc GitHub repository](https://github.com/xatapult/mu-2023-xproc)
 
 For more information, see the [accompanying GitHub pages site](https://mu-2023-xproc.xatapult.com/).
 
+This tutorial is a rerun from a tutorial given at [Declarative Amsterdam](https://declarative.amsterdam/) in 2021.
+
 <br/>
 Erik Siegel
 
