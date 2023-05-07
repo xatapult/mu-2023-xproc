@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+  <doc keep="true">
+    <p>Hi there!</p>
+  </doc>
+  <doc keep="false">
+    <p>Nonsense!</p>
+  </doc>
+  <doc keep="true">
+    <p>Hi there again!</p>
+  </doc>
+</documents>
