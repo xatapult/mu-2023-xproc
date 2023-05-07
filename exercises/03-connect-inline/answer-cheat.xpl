@@ -5,7 +5,7 @@
 
   <p:insert match="/*" position="last-child">
     <p:with-input port="insertion">
-      <location>Amsterdam {year-from-date(current-date())}</location>
+      <location>London {year-from-date(current-date())}</location>
     </p:with-input>
   </p:insert>
 
